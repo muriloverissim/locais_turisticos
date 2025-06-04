@@ -18,4 +18,13 @@ p{
 
 }
 
+
+.divider {
+
+    height: 1px;
+    background: var(--border-primary);
+    margin-block: 4rem;
+}
+
+
 }
